@@ -6,10 +6,13 @@ Get Dayz Editor [here!](https://steamcommunity.com/sharedfiles/filedetails/?id=2
 
 For Stream Deck and Stream Deck XL
 
-
 ## Installation
 
 Open the profile and copy the folder into your current profile
 
 ## Contributing
 Pull requests are welcome. 
+
+## Credits
+
+Icons made by ssuvil #0908
